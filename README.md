@@ -12,12 +12,3 @@ This project showcases my progress in web development. While I’m still **new**
 - **CSS**: Styling the project and making it responsive.
 
 
----
-
-## 🙌 Acknowledgments
-
-- **Android Development**: My background in Android development gave me a strong foundation.
-- **Web Development Course**: A big thanks to my instructors for their guidance.
-
----
-
